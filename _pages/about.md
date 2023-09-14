@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 Yongki Yoon is a Ph.D. student in economics.  
-He is now studying at the University at Albany, SUNY Albany.  
-His main interest is econometrics, and applied econometrics.
+I am now studying at the University at Albany, SUNY Albany.  
+My main interest is econometrics and applied econometrics.
 
