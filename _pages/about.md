@@ -17,11 +17,11 @@ Estimation of the Special Day Effect in Korea’s City Gas Demand using C-LASSO 
 
 ### Work in progress
 
-Covariate Selection for Synthetic Contorl Method (with Park., Byoung)
+Covariate Selection for the Synthetic Control Method (with Park, Byoung.)
 
 ---
 
 ### Proficiency
 
 - R, MATLAB (Proficient)
-- python, Julia, C++ (intermediate level)
+- python, C, C++ (intermediate level)
