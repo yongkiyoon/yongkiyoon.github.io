@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a third-year Ph.D. student in economics. (Now: University at Albany, SUNY Albany)  
-My main interest is econometrics and applied econometrics.
+My main interest is applied econometrics and health economics. Specifically, I am interested in the causal inferences!  
 
 ### Publications
 
@@ -18,8 +18,6 @@ Estimation of the Special Day Effect in Korea’s City Gas Demand using C-LASSO 
 ### Work in progress
 
 Covariate Selection for the Synthetic Control Method (with Park, Byoung.)
-
-Regression Discontinuity Design with Censored Outcomes
 
 ### Proficiency
 
